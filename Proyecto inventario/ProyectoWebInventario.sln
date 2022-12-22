@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagina_Inventario", "Pagina_Inventario.csproj", "{DA02A4F7-5AC2-4D8B-8EE2-7FD849C97AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectividadMySql", "..\ConectividadMySql\ConectividadMySql.csproj", "{3AA5C370-23C6-4315-812A-C15A2006D415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA02A4F7-5AC2-4D8B-8EE2-7FD849C97AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA02A4F7-5AC2-4D8B-8EE2-7FD849C97AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA02A4F7-5AC2-4D8B-8EE2-7FD849C97AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA02A4F7-5AC2-4D8B-8EE2-7FD849C97AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA5C370-23C6-4315-812A-C15A2006D415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA5C370-23C6-4315-812A-C15A2006D415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA5C370-23C6-4315-812A-C15A2006D415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA5C370-23C6-4315-812A-C15A2006D415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {291258B1-3259-4389-80B4-E2B25D1C18F7}
+	EndGlobalSection
+EndGlobal
